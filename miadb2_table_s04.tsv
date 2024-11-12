@@ -1,0 +1,4 @@
+Skeleton	MassQL query accuracy	MassQL query recall
+Ajmalicine spirooxindole	43.75 % (7/16)	100 % (7/7)
+Corynantheane spirooxindole	42.86 % (3/7)	75 % (3/4)
+Ajmalicine spirooxindole or Corynantheane spirooxindole	55.56 % (10/18)	90.91 % (10/11)
