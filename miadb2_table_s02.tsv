@@ -1,4 +1,4 @@
-sample_id	source_species	species_qid	source_family	family_qid
+sample_id	biosource	species_qid	source_family	family_qid
 AP_018-023	Catharanthus roseus	Q161093	Apocynaceae	Q173756
 AP_075-051	Melodinus cochinchinensis	Q15353708	Apocynaceae	Q173756
 AP_077-022	Melodinus honbaensis	Q15353681	Apocynaceae	Q173756
