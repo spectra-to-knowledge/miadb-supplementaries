@@ -1,79 +1,79 @@
-Cluster index	Plant 1	GNPS annotation	Scaffold type of the GNPS annotated ion
-2057	Uncaria scandens	Uncarine F	Ajmalicine spirooxindole
-2322	Mitragyna rotundifolia	Corynoxeine	Corynantheane spirooxindole
-2273	Uncaria scandens		
-1809	Rauvolfia littoralis	Rauwolscine	Yohimbinoid
-2754	Mitragyna rotundifolia		
-2220	Mitragyna rotundifolia		
-3114	Mitragyna rotundifolia		
-3210	Mitragyna rotundifolia		
-2784	Mitragyna rotundifolia		
-2269	Mitragyna hirsuta	Isomitraphylline	Ajmalicine spirooxindole
-2752	Mitragyna hirsuta	Isocorynoxine	Corynantheane spirooxindole
-2653	Mitragyna hirsuta		
-1595	Tabernaemontana bovina	Tabernaemontanine	Vobasine
-1604	Stemmadenia pubescens		
-1119	Stemmadenia pubescens		
-2400	Mitragyna rotundifolia		
-3660	Stemmadenia pubescens		
-3470	Mitragyna hirsuta		
-2172	Rauvolfia littoralis		
-1521	Rauvolfia tetraphylla		
-2469	Rauvolfia tetraphylla		
-1395	Strychnos thorelii		
-2279	Rauvolfia tetraphylla	Carapanaubine	Ajmalicine spirooxindole
-702	Rauvolfia tetraphylla		
-2237	Rauvolfia littoralis		
-2425	Mitragyna rotundifolia		
-2005	Rauvolfia littoralis	Carapanaubine	Ajmalicine spirooxindole
-1654	Cephaelis lecomtei		
-3456	Stemmadenia pubescens		
-3859	Uncaria scandens		
-1877	Rauvolfia littoralis		
-2956	Mitragyna rotundifolia		
-2928	Mitragyna hirsuta		
-2874	Uncaria scandens	Speciophylline	Ajmalicine spirooxindole
-3564	Tabernaemontana granatum		
-1867	Uncaria scandens		
-695	Rauvolfia micrantha		
-2289	Tabernaemontana bovina	Ervatamine	Ervatamia
-2725	Rauvolfia littoralis		
-3517	Mitragyna hirsuta	Reserpinine	Ajmalicine
-1706	Tabernaemontana bovina		
-2285	Rauvolfia tetraphylla		
-1818	Tabernaemontana bovina	7α-voacangine hydroxyindolenine	Iboga
-1427	Rauvolfia micrantha		
-2618	Timonius arboreus		
-3285	Mitragyna hirsuta	Corynantheidine	Corynantheane
-1737	Mitragyna rotundifolia		
-3234	Stemmadenia pubescens		
-3241	Uncaria scandens		
-1011	Strychnos thorelii		
-2264	Mitragyna rotundifolia	Methyl-(16Z)-9-hydroxy-16-(methoxymethylene)-2-oxocoryxan-17-oate	Corynantheane spirooxindole
+Cluster index	Biosource	GNPS annotation	SMILES of the GNPS annotated ion	Skeleton type of the GNPS annotated ion
+2057	Uncaria scandens	Uncarine F	C[C@H]1[C@@H]2CN3CC[C@]4([C@H]3C[C@@H]2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O	Ajmalicine spirooxindole
+2322	Mitragyna rotundifolia	Corynoxeine	O=C(OC)C(=COC)C1CC2N(CCC32C(=O)NC=4C=CC=CC43)CC1C=C	Corynantheane spirooxindole
+2273	Uncaria scandens			
+1809	Rauvolfia littoralis	Rauwolscine	COC(=O)C1C(O)CCC2CN3CCC4=C(NC5=CC=CC=C45)C3CC12	Yohimbinoid
+2754	Mitragyna rotundifolia			
+2220	Mitragyna rotundifolia			
+3114	Mitragyna rotundifolia			
+3210	Mitragyna rotundifolia			
+2784	Mitragyna rotundifolia			
+2269	Mitragyna hirsuta	Isomitraphylline	C[C@H]1[C@H]2CN3CC[C@@]4([C@@H]3C[C@@H]2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O	Ajmalicine spirooxindole
+2752	Mitragyna hirsuta	Isocorynoxine	O=C1NC2=CC=CC=C2[C@@]13CN4[C@](C[C@H](/C(C(OC)=O)=C\\OC)[C@H](CC)C4)([H])C3	Corynantheane spirooxindole
+2653	Mitragyna hirsuta			
+1595	Tabernaemontana bovina	Tabernaemontanine	CN1C(C2([H])C(OC)=O)CC3=C(C(CC2[C@H](CC)C1)=O)NC4=C3C=CC=C4	Vobasine
+1604	Stemmadenia pubescens			
+1119	Stemmadenia pubescens			
+2400	Mitragyna rotundifolia			
+3660	Stemmadenia pubescens			
+3470	Mitragyna hirsuta			
+2172	Rauvolfia littoralis			
+1521	Rauvolfia tetraphylla			
+2469	Rauvolfia tetraphylla			
+1395	Strychnos thorelii			
+2279	Rauvolfia tetraphylla	Carapanaubine	COC(C([C@]1(C2)[H])=CO[C@H]([C@@]1(CN3CCC4(C(NC(C=C5OC)=C4C=C5OC)=O)[C@]23[H])[H])C)=O	Ajmalicine spirooxindole
+702	Rauvolfia tetraphylla			
+2237	Rauvolfia littoralis			
+2425	Mitragyna rotundifolia			
+2005	Rauvolfia littoralis	Carapanaubine	COC(C([C@]1(C2)[H])=CO[C@H]([C@@]1(CN3CCC4(C(NC(C=C5OC)=C4C=C5OC)=O)[C@]23[H])[H])C)=O	Ajmalicine spirooxindole
+1654	Cephaelis lecomtei			
+3456	Stemmadenia pubescens			
+3859	Uncaria scandens			
+1877	Rauvolfia littoralis			
+2956	Mitragyna rotundifolia			
+2928	Mitragyna hirsuta			
+2874	Uncaria scandens	Speciophylline	COC(=O)C1=CO[C@@H](C)[C@@H]2CN3CC[C@]4([C@H]3C[C@H]12)C(O)=NC1=CC=CC=C41	Ajmalicine spirooxindole
+3564	Tabernaemontana granatum			
+1867	Uncaria scandens			
+695	Rauvolfia micrantha			
+2289	Tabernaemontana bovina	Ervatamine	CN(C1)C[C@@H](CC)[C@]([C@]1(C(OC)=O)C2)([H])CC(C3=C2C4=CC=CC=C4N3)=O	Ervatamia
+2725	Rauvolfia littoralis			
+3517	Mitragyna hirsuta	Reserpinine	O=C(OC)C1=COC(C)C2CN3CCC=4C=5C=CC(OC)=CC5NC4C3CC12	Ajmalicine
+1706	Tabernaemontana bovina			
+2285	Rauvolfia tetraphylla			
+1818	Tabernaemontana bovina	7α-voacangine hydroxyindolenine	CC[C@@H]1C[C@@H]2CN3CCC4(O)C5=C(C=CC(OC)=C5)N=C4C(C2)(C13)C(=O)OC	Iboga
+1427	Rauvolfia micrantha			
+2618	Timonius arboreus			
+3285	Mitragyna hirsuta	Corynantheidine	[H][C@](N1CC2)(C[C@@](/C(C(OC)=O)=C\\OC)([H])[C@H](CC)C1)C3=C2C4=CC=CC=C4N3	Corynantheane
+1737	Mitragyna rotundifolia			
+3234	Stemmadenia pubescens			
+3241	Uncaria scandens			
+1011	Strychnos thorelii			
+2264	Mitragyna rotundifolia	Methyl-(16Z)-9-hydroxy-16-(methoxymethylene)-2-oxocoryxan-17-oate	CCC1CN2CCC3(C2CC1\\C(=C\\OC)C(=O)OC)C(=O)NC4=C3C(=CC=C4)O	Corynantheane spirooxindole
 2680	Mitragyna rotundifolia		
-773	Rauvolfia tetraphylla		
-1097	Stemmadenia pubescens		
-1326	Rauvolfia littoralis		
-1583	Rauvolfia littoralis		
-2628	Mitragyna rotundifolia		
-1798	Stemmadenia pubescens		
-817	Rauvolfia micrantha		
-2522	Rauvolfia littoralis		
-1649	Tabernaemontana granatum		
-3647	Iserta laevis		
-3188	Rauvolfia littoralis		
-3081	Stemmadenia pubescens		
-1189	Rauvolfia micrantha		
-3990	Rauvolfia littoralis		
-763	Strychnos thorelii		
-2886	Rauvolfia littoralis		
-2695	Mitragyna rotundifolia		
-3040	Tabernaemontana granatum		
-3005	Uncaria scandens	Speciophylline	Ajmalicine spirooxindole
-1291	Rauvolfia micrantha		
-1414	Stemmadenia pubescens		
-2810	Rauvolfia littoralis		
-2510	Mitragyna rotundifolia		
-3507	Mitragyna hirsuta		
-1513	Uncaria scandens		
-1882	Uncaria scandens	Formosanine	Ajmalicine spirooxindole
+773	Rauvolfia tetraphylla			
+1097	Stemmadenia pubescens			
+1326	Rauvolfia littoralis			
+1583	Rauvolfia littoralis			
+2628	Mitragyna rotundifolia			
+1798	Stemmadenia pubescens			
+817	Rauvolfia micrantha			
+2522	Rauvolfia littoralis			
+1649	Tabernaemontana granatum			
+3647	Iserta laevis			
+3188	Rauvolfia littoralis			
+3081	Stemmadenia pubescens			
+1189	Rauvolfia micrantha			
+3990	Rauvolfia littoralis			
+763	Strychnos thorelii			
+2886	Rauvolfia littoralis			
+2695	Mitragyna rotundifolia			
+3040	Tabernaemontana granatum			
+3005	Uncaria scandens	Speciophylline	COC(=O)C1=CO[C@@H](C)[C@@H]2CN3CC[C@]4([C@H]3C[C@H]12)C(O)=NC1=CC=CC=C41	Ajmalicine spirooxindole
+1291	Rauvolfia micrantha			
+1414	Stemmadenia pubescens			
+2810	Rauvolfia littoralis			
+2510	Mitragyna rotundifolia			
+3507	Mitragyna hirsuta			
+1513	Uncaria scandens			
+1882	Uncaria scandens	Formosanine	COC(=O)C1=CO[C@H](C)[C@H]2CN3CC[C@@]4([C@@H]3C[C@H]12)C(O)=NC1=CC=CC=C41	Ajmalicine spirooxindole
